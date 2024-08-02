@@ -44,7 +44,7 @@ The Keys:
 4. 11seafoamGAMES_JSON
 5. 19187800268BRAIN
 6. 74FLANNELclick
-7. toLocaleString<div>1ivy
+7. toLocaleString`<div>`1ivy
 8. ZooHowCEDAR
 
 ## License
